@@ -1,0 +1,5 @@
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Bookmark with id c3a08a2b-d061-4d26-92ff-d386d2a037ce created","level":"info"}
+{"message":"Must include title, url, description, and rating","level":"error"}
+{"message":"Bookmark with id 8bec0bde-a88c-4cfa-a275-630d9036d2c4 created","level":"info"}
+{"message":"Bookmark with id 01f0b841-82c7-41b7-a504-b96edaa2dfaf deleted.","level":"info"}
