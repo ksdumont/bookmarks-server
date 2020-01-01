@@ -1,1 +1,4 @@
 {"message":"Unauthorized request to path /bookmarks","level":"error"}
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Bookmark with id 9 not found","level":"error"}
+{"message":"Unauthorized request to path /","level":"error"}
